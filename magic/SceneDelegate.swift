@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  magic
+//  homework 1.3
 //
-//  Created by Mac on 17/4/23.
+//  Created by Islam Erlan Uulu on 11/4/23.
 //
 
 import UIKit
